@@ -23,7 +23,7 @@ route-nopull
 route 192.168.1.0 255.255.255.0
 ```
 
-And replace with your own local network !!!
+And replace the "route" option with your own local network !!!
 
 ## Usage
 

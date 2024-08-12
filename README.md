@@ -1,3 +1,6 @@
+# Original repo and informations 
+[original](https://github.com/angristan/openvpn-install)
+
 # openvpn-install
 
 ![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
@@ -53,9 +56,6 @@ If you have any question, head to the [FAQ](#faq) first. Please read everything 
 
 **PLEASE do not send me emails or private messages asking for help.** The only place to get help is the issues. Other people may be able to help and in the future, other users may also run into the same issue as you. My time is not available for free just for you, you're not special.
 
-
-# Original repo and informations 
-[original](https://github.com/angristan/openvpn-install)
 
 ## Say thanks
 

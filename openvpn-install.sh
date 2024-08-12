@@ -1045,7 +1045,9 @@ tls-client
 tls-version-min 1.2
 tls-cipher $CC_CIPHER
 ignore-unknown-option block-outside-dns
-setenv opt block-outside-dns # Prevent Windows 10 DNS leak
+#setenv opt block-outside-dns # Prevent Windows 10 DNS leak
+route-nopull
+route 192.168.1.0 255.255.255.0
 verb 3" >>/etc/openvpn/client-template.txt
 
 	if [[ $COMPRESSION_ENABLED == "y" ]]; then

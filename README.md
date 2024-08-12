@@ -13,7 +13,7 @@ This script will let you setup your own secure VPN server in just a few seconds.
 
 You can also check out [wireguard-install](https://github.com/angristan/wireguard-install), a simple installer for a simpler, safer, faster and more modern VPN protocol.
 
-## Config fo split tunneling
+## Config for split tunneling
 
 Modify : openvpn-install.sh
 
